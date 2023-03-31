@@ -20,17 +20,30 @@ header{
     margin: 0 auto;
     text-align: center;
     color: white;
+    padding-bottom: 50px;
 }
+
 
 .img-container-header{
     display: flex;
-    justify-content: flex-end;
+    justify-content:space-between;
     width: 40%;
 
+}
+
+.titolo-header{
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 .img-wrapper{
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+.p-header-container{
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
 }
