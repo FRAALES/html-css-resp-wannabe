@@ -127,3 +127,23 @@
  /************************************************
      SOLUZIONE RESPONSIVE
   ************************************************/
+
+
+  /* Responsive for tablets */
+
+  @media screen and (max-width: 768px) {
+    .container{
+        width: 768px;
+    }
+  }
+
+
+
+ /* Responsive for smartphones */
+
+  @media screen and (max-width: 480px) {
+    .container{
+        width: 480px;
+    }
+  }
+
