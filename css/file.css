@@ -133,7 +133,7 @@
 
   @media screen and (max-width: 768px) {
     .container{
-        width: 768px;
+        width: 90%;
     }
   }
 
@@ -143,10 +143,19 @@
 
   @media screen and (max-width: 480px) {
     .container{
-        width: 480px;
+        width: 90%;
     }
     .row{
         flex-wrap: wrap;
     }
+
+    .card{
+        width: 90%;
+    }
+
+
+
+
+
   }
 
