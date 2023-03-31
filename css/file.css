@@ -145,5 +145,8 @@
     .container{
         width: 480px;
     }
+    .row{
+        flex-wrap: wrap;
+    }
   }
 
