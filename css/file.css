@@ -45,7 +45,7 @@ header{
 
 .p-header-container{
     display: flex;
-    width: 40%;
+    width: 60%;
     justify-content: space-between;
 }
 
@@ -56,3 +56,5 @@ header{
 .h4-header{
     color: lightgrey;
 }
+
+
