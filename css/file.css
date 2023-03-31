@@ -141,7 +141,7 @@
 
  /* Responsive for smartphones */
 
-  @media screen and (max-width: 480px) {
+  @media screen and (max-width: 485px) {
     .container{
         width: 100%;
     }
@@ -155,11 +155,16 @@
         display: block;
     }
 
-    .col{
-        flex-direction: column;
+    .steps .col {
         width: 100%;
     }
-
+    .why-us .col-left {
+        width: 100%;
+    }
+    
+    .why-us .col-right {
+        width: 100%;
+    }
 
   }
 
