@@ -149,9 +149,11 @@
         flex-wrap: wrap;
     }
 
-    .card{
-        width: 90%;
+    .card {
+        width: 100%;
     }
+
+
 
 
 
