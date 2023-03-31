@@ -141,19 +141,16 @@
 
  /* Responsive for smartphones */
 
-  @media screen and (max-width: 485px) {
-    .container{
-        width: 100%;
-    }
+  @media screen and (max-width: 480px) {
+
     .row{
         flex-wrap: wrap;
         flex-direction: column;
     }
-
-    .card {
+    .lessons .col {
         width: 100%;
-        display: block;
     }
+
 
     .steps .col {
         width: 100%;
